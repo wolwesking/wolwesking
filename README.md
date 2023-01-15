@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wolwesking
-- 👀 I’m interested in C#
+- 👀 I’m interested in webdev
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Unity
 
